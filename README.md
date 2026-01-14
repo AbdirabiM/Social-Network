@@ -7,8 +7,7 @@ This application enables users to:
 - Create users and thoughts.
 - Add reactions to thoughts.
 - Manage friendships between users.
-
-- 
+ 
 It simplifies social network management by offering a structured and scalable solution for CRUD operations on users, thoughts, and interactions.
 
 
